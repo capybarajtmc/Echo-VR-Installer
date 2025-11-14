@@ -1,3 +1,7 @@
+# Fork
+This fork is just for me to install my own echorelay servers onto my quest by modifying this because it works. Fix EchoRewind :pray:
+
+
 The Installer installs Echo on Quest and PC
 
 To use it, just go to the release page and download the specific build for either Windows, macOS or Linux.
